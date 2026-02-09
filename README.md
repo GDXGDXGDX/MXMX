@@ -1,2 +1,2 @@
 # MXMX
-/test
+test
